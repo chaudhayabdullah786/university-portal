@@ -1,0 +1,8 @@
+
+{
+  "name": "Abdullah University SIS Portal",
+  "description": "A modern Student Information System (SIS) portal for Abdullah University with integrated Gemini AI assistant.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
