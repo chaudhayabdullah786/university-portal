@@ -1,21 +1,110 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+🎓 University Portal – Web Application
+📌 Title
 
-# Run and deploy your AI Studio app
+University Portal – Student Information System
 
-This contains everything you need to run your app locally.
+📄 Short Description
 
-View your app in AI Studio: https://ai.studio/apps/drive/11YUAsJfHvLVhMpUGUpk9Jsg51zjSet2m
+A modern web-based University Portal built with React and TypeScript to manage academic information, notifications, and student-related services.
 
-## Run Locally
+🧩 Brief Description (for Project Cards)
 
-**Prerequisites:**  Node.js
+A React & TypeScript based university portal providing centralized access to academic and administrative information.
+
+📘 Full Description
+
+The University Portal is a frontend-focused web application designed to simulate a Student Information System (SIS) for a university environment.
+It provides a centralized interface where students can access academic modules, notifications, and other university-related services.
+
+The project is built using React with TypeScript, following a component-based architecture for scalability and maintainability. It demonstrates modern frontend development practices, clean project structure, and readiness for backend integration through service layers.
+
+This portal is suitable for academic projects and showcases the ability to design real-world institutional web systems with a professional UI and structured codebase.
+
+🔗 GitHub Repository
+
+https://github.com/chaudhayabdullah786/university-portal
+
+🌐 Live Demo
+
+https://university-portal-abdullah.vercel.app/
+
+⚙️ Project Settings (Portfolio Upload)
+Category
+
+Web Development
+
+Tech Stack (comma-separated)
+
+React, TypeScript, JavaScript, HTML, CSS, Node.js
+
+Tags (comma-separated)
+
+University Portal, Student Information System, React, TypeScript, Web Development, Frontend Project
+
+Display Order
+
+5
+
+Featured Project
+
+No (Optional – enable if highlighting frontend systems)
+
+Project Image
+
+University portal dashboard or homepage screenshot
+Recommended size: 800×600px
+
+📂 Project Structure
+university-portal/
+│
+├── components/
+├── services/
+│
+├── App.tsx
+├── index.tsx
+├── index.html
+│
+├── metadata.json
+├── package.json
+├── package-lock.json
+├── .gitignore
+└── README.md
+
+🚀 Key Features
+
+Centralized university portal interface
+
+Modular React components
+
+Service-based structure for future backend APIs
+
+Type-safe development with TypeScript
+
+Responsive layout for multiple devices
+
+Ready for authentication & database integration
+
+▶️ How to Run Locally
+npm install
+npm run dev
 
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
-# university-portal
+Then open:
+
+http://localhost:5173/
+
+🎯 Learning Outcomes
+
+Building scalable React applications
+
+TypeScript for safer frontend development
+
+Component-based UI architecture
+
+Preparing frontend systems for backend integration
+
+Structuring real-world educational web portals
+
+📜 License
+
+Open-source (no specific license declared)
